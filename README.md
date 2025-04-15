@@ -1,2 +1,2 @@
 # MyCalculator
-A lightweight calculator  web app 
+A lightweight calculator app that performs basic arithmetic operations — addition, subtraction, multiplication, and division.
